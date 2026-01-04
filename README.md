@@ -79,6 +79,6 @@ To revert to the original launcher:
 2. Create a new shortcut from the Wargaming Center or point 
    your old shortcut back to "wgc_api.exe" in your game's folder.
 
-=====================================================================================================================================
+
                                                    FAIR WINDS AND FOLLOWING SEAS!
-=====================================================================================================================================
+
