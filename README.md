@@ -1,6 +1,6 @@
-=====================================================================================================================================
+
                                          ⚓ WORLD OF WARSHIPS "STEALTH" ONE-CLICK LAUNCHER ⚓
-=====================================================================================================================================
+
 
 This custom utility streamlines your World of Warships experience by:
 1. Launching your wows-monitor and the Game simultaneously.
